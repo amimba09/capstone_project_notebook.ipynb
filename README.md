@@ -1,1 +1,1 @@
-# CorseraCapstone_project_notebook.ipynb
+# CourseraCapstone_project_notebook.ipynb
